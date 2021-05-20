@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPPAppWeb", "VPPAppWeb\VPPAppWeb.csproj", "{708ACB7D-0474-4CC3-A2F3-EBAAA78BEF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPPAppApi", "VPPAppApi\VPPAppApi.csproj", "{DF7E4D2C-2F33-4723-8CAD-FD7EE773C20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPPAppShare", "VPPAppShare\VPPAppShare.csproj", "{2F0A9648-B696-4876-8ADB-59664FA10DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708ACB7D-0474-4CC3-A2F3-EBAAA78BEF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708ACB7D-0474-4CC3-A2F3-EBAAA78BEF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708ACB7D-0474-4CC3-A2F3-EBAAA78BEF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708ACB7D-0474-4CC3-A2F3-EBAAA78BEF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7E4D2C-2F33-4723-8CAD-FD7EE773C20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7E4D2C-2F33-4723-8CAD-FD7EE773C20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7E4D2C-2F33-4723-8CAD-FD7EE773C20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7E4D2C-2F33-4723-8CAD-FD7EE773C20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0A9648-B696-4876-8ADB-59664FA10DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0A9648-B696-4876-8ADB-59664FA10DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0A9648-B696-4876-8ADB-59664FA10DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0A9648-B696-4876-8ADB-59664FA10DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12BAE12-266E-4512-A005-E2BF3D804F55}
+	EndGlobalSection
+EndGlobal
